@@ -1,6 +1,6 @@
 // https://www.programiz.com/kotlin-programming/while-loop
 // https://www.programiz.com/kotlin-programming/for-loop
-package `2_flow_control`
+package ii_flow_control
 
 fun main(args: Array<String>) {
     /** Example simple while loop */

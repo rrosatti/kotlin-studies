@@ -1,5 +1,5 @@
 // https://www.programiz.com/kotlin-programming/default-named-arguments
-package `3_functions`
+package iii_functions
 
 fun main(args: Array<String>) {
     println("Output when no argument is passed:")

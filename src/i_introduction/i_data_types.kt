@@ -1,5 +1,5 @@
 // https://www.programiz.com/kotlin-programming/variable-types
-package `1_introduction`
+package i_introduction
 
 fun main(args: Array<String>) {
     // either var or val can be used to declare a variable

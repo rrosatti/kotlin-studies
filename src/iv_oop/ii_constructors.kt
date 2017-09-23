@@ -8,11 +8,11 @@ fun main(args: Array<String>) {
     
      */
     
-    val per1 = new Person("Rodrigo", 22)
+    val per1 = Person("Rodrigo", 22)
     println("First name: ${per1.firstName}")
     println("Age: ${per1.age}")
 
-    val per2 = new Person2("Rodrigo", 22)
+    val per2 = Person2("Rodrigo", 22)
 }
 
 /** Example: Primary Constructor */

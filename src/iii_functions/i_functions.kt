@@ -1,8 +1,6 @@
 // https://www.programiz.com/kotlin-programming/functions
 // https://www.programiz.com/kotlin-programming/infix-notation
-package `3_functions`
-
-import com.sun.org.apache.xpath.internal.operations.Bool
+package iii_functions
 
 fun main(args: Array<String>) {
     println("Before callMe()")

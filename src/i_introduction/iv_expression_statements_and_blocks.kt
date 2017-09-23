@@ -1,5 +1,5 @@
 // https://www.programiz.com/kotlin-programming/statement-expression
-package `1_introduction`
+package i_introduction
 
 fun main(args: Array<String>) {
     /** Kotlin Expressions */

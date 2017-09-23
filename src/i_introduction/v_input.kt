@@ -1,5 +1,5 @@
 // https://www.programiz.com/kotlin-programming/input-output
-package `1_introduction`
+package i_introduction
 
 import java.util.*
 

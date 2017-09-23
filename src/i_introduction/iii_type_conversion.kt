@@ -1,5 +1,5 @@
 // https://www.programiz.com/kotlin-programming/type-conversion
-package `1_introduction`
+package i_introduction
 
 fun main(args: Array<String>) {
     val n1: Int = 10

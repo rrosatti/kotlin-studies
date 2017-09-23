@@ -1,9 +1,9 @@
 // https://www.programiz.com/kotlin-programming/class-objects
-package `4_oop`
+package iv_oop
 
 fun main(args: Array<String>) {
-    val l1 = new Lamp()
-    val l2 = new Lamp()    
+    val l1 = Lamp()
+    val l2 = Lamp()
 
     l1.turnOff()
     l2.turnOn()

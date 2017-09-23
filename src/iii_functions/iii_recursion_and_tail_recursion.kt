@@ -1,5 +1,5 @@
-// https://www.programiz.com/kotlin-programming
-package `3_functions`
+// https://www.programiz.com/kotlin-programming/recursion
+package iii_functions
 
 import java.math.BigInteger
 

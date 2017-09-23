@@ -1,5 +1,5 @@
 // https://www.programiz.com/kotlin-programming/operators
-package `1_introduction`
+package i_introduction
 
 fun main(args: Array<String>) {
     var n1 = 12.5
